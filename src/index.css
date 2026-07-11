@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes ringPulse {
+  0% { width: 80px; height: 80px; opacity: 0.9; }
+  100% { width: 220px; height: 220px; opacity: 0; }
+}
+.ring {
+  position: absolute;
+  border-radius: 9999px;
+  border: 1px solid #E63950;
+  opacity: 0;
+  animation: ringPulse 2.4s ease-out infinite;
+}
+.ring-2 { animation-delay: 0.8s; }
+.ring-3 { animation-delay: 1.6s; }
+
+@keyframes sosLive {
+  0%, 100% { box-shadow: 0 0 0 8px rgba(230,57,80,0.2); }
+  50% { box-shadow: 0 0 0 20px rgba(230,57,80,0.05); }
+}
+.sos-live {
+  animation: sosLive 1.4s ease-in-out infinite;
+}
