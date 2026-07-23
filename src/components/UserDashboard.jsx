@@ -90,7 +90,7 @@ export default function UserDashboard({ session, onLogout }) {
         </button>
       </div>
 
-      <div className="grid grid-cols-2 md:grid-cols-4 gap-3.5 mb-8">
+      <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8 max-w-5xl mx-auto">
         <Kpi value={contacts.length} label="Trusted contacts" />
         <Kpi value={alerts.length} label="Past alerts" />
         <Kpi value={session?.verified ? 'Active' : 'Pending'} label="Profile status" />
