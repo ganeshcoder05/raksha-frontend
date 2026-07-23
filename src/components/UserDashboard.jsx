@@ -189,7 +189,7 @@ export default function UserDashboard({ session, onLogout }) {
 
 function Kpi({ value, label }) {
   return (
-    <div className="bg-surface border border-border rounded-xl p-4.5">
+    <div className="bg-surface border border-border rounded-xl p-4.5 flex flex-col items-center justify-center text-center">
       <b className="font-display text-2xl block">{value}</b>
       <span className="text-xs text-muted">{label}</span>
     </div>
