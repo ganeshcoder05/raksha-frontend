@@ -2,7 +2,7 @@
 
 <p align="center">
 
-![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
+
 ![Node.js](https://img.shields.io/badge/Node.js-Express-339933?logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-RealTime-black?logo=socket.io)
