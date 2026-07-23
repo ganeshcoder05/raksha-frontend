@@ -11,7 +11,8 @@ export default function App() {
   const [view, setView] = useState('landing')
   const [authRole, setAuthRole] = useState('user')
   const [session, setSession] = useState(null) // { token, role, name, id }
-  const howRef = useRef(null)
+  const howRef = useRef(null);
+  //token
 
   // Restore session on page load if a token was saved.
   useEffect(() => {
