@@ -238,7 +238,7 @@ git push origin feature-name
 ## Ganesh Verma
 
 📧 Email:
-> your-email@example.com
+vermaganesh753@gmail.com
 
 🔗 GitHub
 
