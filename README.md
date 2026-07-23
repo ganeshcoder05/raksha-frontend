@@ -107,37 +107,7 @@ raksha-frontend/
 
 ---
 
-# 📸 Screenshots
 
-## 🏠 Landing Page
-
-![Landing Page](./screenshots/landing.png)
-
----
-
-## 📝 Signup Page
-
-![Signup Page](./screenshots/signup.png)
-
----
-
-## 👤 User Dashboard
-
-![User Dashboard](./screenshots/user-dashboard.png)
-
----
-
-## 🚑 Volunteer Dashboard
-
-![Volunteer Dashboard](./screenshots/volunteer-dashboard.png)
-
----
-
-## 🛡️ Admin Dashboard
-
-![Admin Dashboard](./screenshots/admin-dashboard.png)
-
----
 
 # ⚙️ Installation
 
