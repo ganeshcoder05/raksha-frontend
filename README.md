@@ -148,7 +148,7 @@ http://localhost:5173
 Create a `.env` file inside the project root.
 
 ```env
-VITE_API_URL=http://localhost:5000
+VITE_API_URL="https://raksha-backend-0s10.onrender.com"
 ```
 
 ---
