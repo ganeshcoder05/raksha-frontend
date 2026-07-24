@@ -107,34 +107,53 @@ raksha-frontend/
 
 ---
 
-<h2>🏠 Landing Page</h2>
+# 📸 Project Screenshots
+
+## 🏠 Home Page
 
 <p align="center">
-<img src="./Screenshot 2026-07-23 at 23.30.12.png" width="900">
+  <img src="./Screenshot%202026-07-23%20at%2023.30.53.png" width="900" alt="Home Page"/>
 </p>
 
-<h2>👤 User Dashboard</h2>
+---
+
+## 🔐 Login / Registration Page
 
 <p align="center">
-<img src="./Screenshot%202026-07-23%20at%2023.31.03.png" width="900">
+  <img src="./Screenshot%202026-07-23%20at%2023.30.12.png" width="600" alt="Login Page"/>
 </p>
 
-<h2>🚑 Volunteer Dashboard</h2>
+---
+
+## 🆘 How an Alert Moves
 
 <p align="center">
-<img src="./Screenshot%202026-07-23%20at%2023.31.24.png" width="900">
+  <img src="./Screenshot%202026-07-23%20at%2023.31.03.png" width="900" alt="Admin Dashboard"/>
 </p>
 
-<h2>🛡️ Admin Dashboard</h2>
+---
+
+## 👤 User Dashboard
 
 <p align="center">
-<img src="./Screenshot%202026-07-23%20at%2023.31.45.png" width="900">
+  <img src="./Screenshot%202026-07-23%20at%2023.31.24.png" width="900" alt="User Dashboard"/>
 </p>
+
+---
+
+## 🚑 Volunteer Dashboard
 
 <p align="center">
-  <img src="./alert-workflow.png" alt="How an Alert Moves" width="900"/>
+  <img src="./Screenshot%202026-07-23%20at%2023.31.45.png" width="900" alt="Volunteer Dashboard"/>
 </p>
 
+---
+
+## 🛡️ Admin Dashboard
+
+<p align="center">
+  <img src="./Screenshot%202026-07-23%20at%2023.33.06.png" width="900" alt="Alert Workflow"/>
+</p>
 
 
 # ⚙️ Installation
