@@ -131,6 +131,10 @@ raksha-frontend/
 <img src="./Screenshot%202026-07-23%20at%2023.31.45.png" width="900">
 </p>
 
+<p align="center">
+  <img src="./alert-workflow.png" alt="How an Alert Moves" width="900"/>
+</p>
+
 
 
 # ⚙️ Installation
